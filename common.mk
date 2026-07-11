@@ -388,21 +388,21 @@ endif
 
 # Overlays
 PRODUCT_PACKAGES += \
-    EuiccSupportPixelOverlay \
+    EuiccSupportPixelOverlayGs201 \
     FrameworkResOverlayProductGs201 \
     FrameworkResOverlayVendorGs201 \
-    GlanceableHubConfigOverlay \
-    GlanceableHubSettingsConfigOverlay \
-    GlanceableHubSettingsConfigOverlay2022 \
-    GlanceableHubSysuiConfigOverlay \
-    GoogleConfigOverlay \
-    GooglePermissionControllerSafetyCenterOverlay \
-    PixelConfigOverlay2019 \
-    PixelConfigOverlay2021 \
-    PixelConfigOverlayCommon \
-    PixelConnectivityOverlay2023_midyear \
-    PixelNfcOverlayCommon \
-    PixelTetheringOverlay2021 \
+    GlanceableHubConfigOverlayGs201 \
+    GlanceableHubSettingsConfigOverlayGs201 \
+    GlanceableHubSettingsConfigOverlay2022Gs201 \
+    GlanceableHubSysuiConfigOverlayGs201 \
+    GoogleConfigOverlayGs201 \
+    GooglePermissionControllerSafetyCenterOverlayGs201 \
+    PixelConfigOverlay2019Gs201 \
+    PixelConfigOverlay2021Gs201 \
+    PixelConfigOverlayCommonGs201 \
+    PixelConnectivityOverlay2023_midyearGs201 \
+    PixelNfcOverlayCommonGs201 \
+    PixelTetheringOverlay2021Gs201 \
     SettingsGoogleOverlayProductGs201 \
     SettingsProviderOverlayProductGs201 \
     SystemUIGoogleOverlayProductGs201 \

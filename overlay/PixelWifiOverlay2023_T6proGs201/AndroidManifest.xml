@@ -4,7 +4,7 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.google.android.wifi.resources.pixel.gs201">
+          package="com.google.android.wifi.resources.pixel.gs201.gs201">
     <overlay android:targetPackage="com.android.wifi.resources"
              android:targetName="WifiCustomization"
              android:isStatic="true"
