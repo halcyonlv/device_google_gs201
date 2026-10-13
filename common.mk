@@ -361,6 +361,7 @@ PRODUCT_PACKAGES += \
     EuiccSupportPixelOverlayGs201 \
     FrameworkResOverlayProductGs201 \
     FrameworkResOverlayVendorGs201 \
+    GazeOverlayGs201 \
     GlanceableHubConfigOverlayGs201 \
     GlanceableHubSettingsConfigOverlayGs201 \
     GlanceableHubSettingsConfigOverlay2022Gs201 \
